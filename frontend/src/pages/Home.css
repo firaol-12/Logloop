@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&family=Playwrite+AU+QLD:wght@100..400&display=swap');
+.heading{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 90px;
+  color: white;
+}
+
+.subTitle{
+  font-family: "Playwrite AU QLD", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  /* color: rgb(62, 62, 62); */
+  font-size: 40px;
+  font-style: normal;
+}
+button{
+  border-color: black;
+  cursor: pointer;
+}
+button:hover{
+  background-color: white;
+  border-color: black;
+  color: black;
+}

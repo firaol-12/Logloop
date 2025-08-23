@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&family=Playwrite+AU+QLD:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Pacifico&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+AU+QLD:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+.post-heading{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  font-size: 90px;
+}
+
+.para {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 20px;
+}
+
